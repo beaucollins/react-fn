@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "lodash": "^4.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaucollins/react-fn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beaucollins/react-fn/issues"
+  },
+  "homepage": "https://github.com/beaucollins/react-fn#readme"
 }
